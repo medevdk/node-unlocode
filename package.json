@@ -1,0 +1,23 @@
+{
+  "name": "unlocode-cli-app",
+  "version": "1.0.0",
+  "description": "Simple line command to get Country and Portname from UNLOCODE, for demonstration purpose only",
+  "main": "index.js",
+  "bin": {
+    "unlo": "index.js"
+  },
+  "files": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Michiel de Klerk"
+  },
+  "license": "DWTFYWWI",
+  "readme": "ERROR: No README data found!",
+  "_id": "unlocode-cli-app@1.0.0",
+  "_shasum": "b0156588a3e5dadbd3bd1cebe413103fcb3e602b",
+  "_from": "../../Users/Michiel/Develop/node/unlo-cli-command",
+  "_resolved": "file:../../Users/Michiel/Develop/node/unlo-cli-command"
+}

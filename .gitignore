@@ -1,0 +1,10 @@
+#Ignore all
+*
+
+#But allow
+!.gitignore
+!country.json
+!index.js
+!unlo.js
+!package.json
+
