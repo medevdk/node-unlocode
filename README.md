@@ -10,7 +10,7 @@ As example NLRTM
 
 This is my go to project whenever I will tinker with a new language.
 
-This version is a simple cli app written in nodejs.
+This version is a simple cli app written in nodejs (requires [node to be installed](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs))
 
 ```fish
 git clone git@github.com:medevdk/node-unlocode.git
